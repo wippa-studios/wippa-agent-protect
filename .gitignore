@@ -1,0 +1,13 @@
+# Dependencies and build output
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Local environment and secrets
+.env
+.env.local
+.env.*.local
+
+# Editor / OS
+.DS_Store
+*.log
